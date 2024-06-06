@@ -19,7 +19,7 @@ Nesse projeto foi utilizado de forma avançada:
 
 ## 🔗 Projeto em produção
 
-- Clique no Link para acessar: [https://paulfms.github.io/projeto-receita-frontend/](https://paulfms.github.io/projeto-travelgram-frontend/)
+- Clique no Link para acessar: https://paulfms.github.io/projeto-travelgram-frontend/
 
 
 ## 🎉 Reconhecimento
